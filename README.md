@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FXLEGEND-dev
 - 👀 I’m interested in making money
-- 🌱 I’m currently learning Full Stack Developing
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on making money with programming
 - 📫 How to reach me ...
 - 😄 Pronouns: He/HIm
